@@ -1,0 +1,8 @@
+# Title: mshafer1's bad-actors blocklist
+# Homepage: https://github.com/mshafer1/dns-blocklists
+# License: https://github.com/mshafer1/dns-blocklists/blob/main/LICENSE
+# Expires: 1 day
+local=/.trackxbf.com/
+local=/.com-trackxbf.com/
+local=/.trackxbf.top/
+local=/.com-trackxbf.com/
